@@ -4,6 +4,12 @@ body {
   background-color: #ffffff;
 }
 
+
+#slash {
+  color: #FFCD2C;
+}
+
+
 .layout_padding {
   padding: 75px 0;
 }
