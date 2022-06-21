@@ -4,11 +4,25 @@ body {
   background-color: #ffffff;
 }
 
+#freccia{
+  
+  font-weight: bold;
+}
 
 #slash {
   color: #FFCD2C;
 }
 
+html body div.hero_area section.slider_section.position-relative div.carousel-inner div.carousel-item.active div.slider_item-box div.slider_item-container div.container div.row div.col-md-6 div.slider_item-detail div div.d-flex a.text-uppercase.custom_dark-btn {
+  background-color: #FFCD2C;
+  color: black;
+}
+
+
+html body section.fruit_section div.container div.row.layout_padding2 div.col-md-8 div.fruit_detail-box div a.custom_dark-btn{
+  background-color: #FFCD2C;
+  color: black;
+}
 
 .layout_padding {
   padding: 75px 0;
@@ -325,7 +339,7 @@ a:focus {
 }
 
 .service_section .card:hover::after {
-  background-color: #d21f1b;
+  background-color: #FFCD2C;
 }
 
 /* end service section */
