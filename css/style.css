@@ -183,6 +183,7 @@ a:focus {
   border-radius: 0.5rem;
 }
 
+
 /*end header section*/
 
 /* slider section */
@@ -249,7 +250,6 @@ a:focus {
   top: 50%;
   left: 2%;
   width: 105px;
-  transform: translateY(-50%);
 }
 
 .slider_section .custom_carousel-control .carousel-control-prev,
@@ -275,6 +275,7 @@ a:focus {
   background-image: url(../images/next.png);
   background-color: #000000;
 }
+
 
 /* end slider section */
 
@@ -333,7 +334,7 @@ a:focus {
 .tasty_section {
   width: 100%;
   height: 500px;
-  background-image: url(../images/stuff.jpg);
+  background-image: url(../images/stuff-min.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
