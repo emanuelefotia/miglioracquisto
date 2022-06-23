@@ -4,8 +4,9 @@ body {
   background-color: #ffffff;
 }
 
-#freccia{
-  
+/* modifiche mie dal template*/
+#freccia {
+
   font-weight: bold;
 }
 
@@ -13,13 +14,14 @@ body {
   color: #FFCD2C;
 }
 
+/* fine modifiche template */
 html body div.hero_area section.slider_section.position-relative div.carousel-inner div.carousel-item.active div.slider_item-box div.slider_item-container div.container div.row div.col-md-6 div.slider_item-detail div div.d-flex a.text-uppercase.custom_dark-btn {
   background-color: #FFCD2C;
   color: black;
 }
 
 
-html body section.fruit_section div.container div.row.layout_padding2 div.col-md-8 div.fruit_detail-box div a.custom_dark-btn{
+html body section.fruit_section div.container div.row.layout_padding2 div.col-md-8 div.fruit_detail-box div a.custom_dark-btn {
   background-color: #FFCD2C;
   color: black;
 }
