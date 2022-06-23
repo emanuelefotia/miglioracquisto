@@ -8,10 +8,10 @@ body {
   font-family: 'Poppins', sans-serif;
   font-size: 72px;
   font-weight: bold;
-  background: -webkit-linear-gradient(left,#AE67FA 1.84%, #F49867 102.67%);
-  background: -o-linear-gradient(right, #AE67FA 1.84%, #F49867 102.67%);
-  background: -moz-linear-gradient(right, #AE67FA 1.84%, #F49867 102.67%);
-  background: linear-gradient(to right, #AE67FA 1.84%, #F49867 102.67%);
+  background: -webkit-linear-gradient(left, rgb(43, 255, 0), rgb(4, 0, 255));
+  background: -o-linear-gradient(right, rgb(43, 255, 0), rgb(4, 0, 255));
+  background: -moz-linear-gradient(right, rgb(43, 255, 0), rgb(4, 0, 255));
+  background: linear-gradient(to right, rgb(43, 255, 0), rgb(4, 0, 255));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
