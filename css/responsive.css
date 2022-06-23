@@ -61,7 +61,7 @@
     }
 
     .contact_section {
-        background-size: 105px;
+        background-image: none;
     }
 
     .contact_section input {
@@ -81,7 +81,7 @@
 
     .tasty_section h2 {
 
-        font-size: 80px;
+        font-size: 50px;
     }
 }
 

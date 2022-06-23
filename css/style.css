@@ -4,6 +4,23 @@ body {
   background-color: #ffffff;
 }
 
+.prova {
+  font-family: 'Poppins', sans-serif;
+  font-size: 72px;
+  font-weight: bold;
+  background: -webkit-linear-gradient(left,#AE67FA 1.84%, #F49867 102.67%);
+  background: -o-linear-gradient(right, #AE67FA 1.84%, #F49867 102.67%);
+  background: -moz-linear-gradient(right, #AE67FA 1.84%, #F49867 102.67%);
+  background: linear-gradient(to right, #AE67FA 1.84%, #F49867 102.67%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.row {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* modifiche mie dal template*/
 #freccia {
 
@@ -434,9 +451,12 @@ a:focus {
 /* end client section */
 
 /* contact section */
+html body section.contact_section.layout_padding div.container h2.font-weight-bold {
+  text-align: center;
+}
 
 .contact_section {
-  background-image: url(../images/cassa.jpg);
+  background-image: none;
   background-repeat: no-repeat;
   background-size: 215px;
   background-position: right center;
